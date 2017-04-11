@@ -10,7 +10,11 @@ import java.awt.FlowLayout;
 import java.awt.Container;
 import java.awt.event.*;
 import javax.swing.*;
-
+/**
+ * File: MainFrame.java
+ * Author: Dr. Kevin A Gary
+ * Description: Creates JFrame GUI for Main method.
+ */
 @SuppressWarnings("serial")
 class MainFrame extends JFrame {
 	AccountServer	myServer;
