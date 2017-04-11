@@ -25,7 +25,6 @@ class MainFrame extends JFrame {
 	JButton 		withdrawButton;
 	JButton			newAccountButton;
 	JButton			displayAccountsButton;
-	JButton			displayODAccountsButton;
 
 	public MainFrame(String propertyFile) throws IOException {
 
